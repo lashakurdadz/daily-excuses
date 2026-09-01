@@ -1,0 +1,151 @@
+day,weekday,time,file,text,category
+1,monday,09:00,130.jpg,it's monday somewhere. unfortunately it's here,weekday
+1,monday,13:00,137.jpg,new week. same me. better excuses,weekday
+1,monday,19:00,117.jpg,my weekend personality writes checks my monday body can't cash,weekend
+1,monday,23:00,140.jpg,september is the monday of months,seasonal
+2,tuesday,09:00,141.jpg,new season. same coping mechanisms,seasonal
+2,tuesday,13:00,131.jpg,tuesday is just monday's echo,weekday
+2,tuesday,19:00,143.jpg,summer body has been rescheduled to next year. again,seasonal
+2,tuesday,23:00,142.jpg,autumn: when hot drinks become a personality,seasonal
+3,wednesday,09:00,144.jpg,the year is 70% done and so am i,seasonal
+3,wednesday,13:00,132.jpg,wednesday: too late to restart the week. too early to give up,weekday
+3,wednesday,19:00,145.jpg,sweater weather is just hiding weather,seasonal
+3,wednesday,23:00,089.jpg,brain: remember that dumb thing you said? me: it's 3am,overthink
+4,thursday,09:00,086.jpg,my thoughts have a night shift,overthink
+4,thursday,13:00,133.jpg,thursday is friday's opening act,weekday
+4,thursday,19:00,110.jpg,i go out to remember why i stay in,weekend
+4,thursday,23:00,078.jpg,friendship is sending memes with no context and being understood,social
+5,friday,09:00,101.jpg,naps are just little rehearsals for bedtime,sleep
+5,friday,13:00,139.jpg,weekend loading... 1%,weekday
+5,friday,19:00,106.jpg,friday me makes promises monday me has to survive,weekend
+5,friday,23:00,147.jpg,normalize resting without earning it,wholesome
+6,saturday,09:00,135.jpg,saturday morning me is the best version of me,weekday
+6,saturday,13:00,108.jpg,saturday: recover from friday. sunday: dread monday,weekend
+6,saturday,19:00,079.jpg,my brain remembers embarrassing moments from 2014 but not passwords,overthink
+6,saturday,23:00,115.jpg,i danced like nobody was filming. somebody was filming,weekend
+7,sunday,09:00,093.jpg,i self reflect until it becomes self roasting,overthink
+7,sunday,13:00,004.jpg,i didn't wanna order delivery but the kitchen was so far,excuse
+7,sunday,19:00,113.jpg,weekend goals: nothing. achieved: everything,weekend
+7,sunday,23:00,112.jpg,sunday evening hits like an unpaid bill,weekend
+8,monday,09:00,017.jpg,i'm not dramatic the situation was dramatic,delusion
+8,monday,13:00,102.jpg,my bed is most comfortable exactly when i have to leave it,sleep
+8,monday,19:00,044.jpg,groceries cost a salary now and we're all just okay with it,money
+8,monday,23:00,061.jpg,i'm not slacking i'm in a silent brainstorm,work
+9,tuesday,09:00,138.jpg,this week has been a year,weekday
+9,tuesday,13:00,050.jpg,i say sounds good to things that sound terrible,work
+9,tuesday,19:00,083.jpg,overthinking is my cardio,overthink
+9,tuesday,23:00,001.jpg,i didn't wanna text back but my phone was right there,excuse
+10,wednesday,09:00,123.jpg,i typed a comment. deleted it. felt powerful,phone
+10,wednesday,13:00,080.jpg,i rehearse conversations that will never happen,overthink
+10,wednesday,19:00,026.jpg,i'm not petty i just have an excellent memory,delusion
+10,wednesday,23:00,095.jpg,being awake before 9am should count as overtime,sleep
+11,thursday,09:00,015.jpg,i'm not ignoring you i'm buffering,delusion
+11,thursday,13:00,053.jpg,i pretend my mic is broken just to sigh,work
+11,thursday,19:00,035.jpg,treating myself was supposed to be occasional,money
+11,thursday,23:00,046.jpg,my out of office is a love letter i write to myself,work
+12,friday,09:00,146.jpg,i'm the friend who says text me when you're home,wholesome
+12,friday,13:00,002.jpg,i didn't wanna spend money today but the card said yes,excuse
+12,friday,19:00,134.jpg,friday 5pm is my religion,weekday
+12,friday,23:00,043.jpg,i don't chase. unless it's a refund,money
+13,saturday,09:00,096.jpg,i don't wake up i reboot,sleep
+13,saturday,13:00,090.jpg,i'm calm the way a shaken soda is calm,overthink
+13,saturday,19:00,097.jpg,5 more minutes is the biggest lie i tell daily,sleep
+13,saturday,23:00,092.jpg,my intuition is 50% genius 50% paranoia,overthink
+14,sunday,09:00,063.jpg,my resume says team player. my soul says leave me alone,work
+14,sunday,13:00,042.jpg,my financial goals and my checkout history are in a fight,money
+14,sunday,19:00,023.jpg,i'm not nosy i'm community oriented,delusion
+14,sunday,23:00,136.jpg,the sunday scaries arrived right on schedule,weekday
+15,monday,09:00,030.jpg,i budget like someone who has never met me before,money
+15,monday,13:00,127.jpg,the algorithm knows me better than my friends do,phone
+15,monday,19:00,045.jpg,my wallet flinches when i open instagram,money
+15,monday,23:00,021.jpg,i'm not always tired i'm just never awake,delusion
+16,tuesday,09:00,062.jpg,promotion? i was thinking more like a nap,work
+16,tuesday,13:00,036.jpg,rent said thanks for everything again,money
+16,tuesday,19:00,052.jpg,every job says fast paced environment like it's a good thing,work
+16,tuesday,23:00,003.jpg,i didn't wanna stay up late but my brain scheduled a meeting at 2am,excuse
+17,wednesday,09:00,049.jpg,my calendar has meetings about meetings,work
+17,wednesday,13:00,077.jpg,on my way means i'm considering getting up,social
+17,wednesday,19:00,010.jpg,i didn't wanna snooze but 9 more minutes is basically self care,excuse
+17,wednesday,23:00,058.jpg,work life balance is me being tired in two locations,work
+18,thursday,09:00,011.jpg,i didn't wanna go out but someone said one drink,excuse
+18,thursday,13:00,085.jpg,why did i say that. a memoir,overthink
+18,thursday,19:00,033.jpg,financial plan: hope,money
+18,thursday,23:00,076.jpg,i'm fun at parties i just need to be at home,social
+19,friday,09:00,129.jpg,i scroll to relax and end up knowing too much,phone
+19,friday,13:00,067.jpg,plans made on tuesday are cancelled by friday. that's science,social
+19,friday,19:00,150.jpg,protect the friends who hype you up in the comments,wholesome
+19,friday,23:00,100.jpg,i'm a morning person if the morning starts at noon,sleep
+20,saturday,09:00,068.jpg,my favorite plan is the one that gets cancelled,social
+20,saturday,13:00,022.jpg,i'm not jealous i'm doing a competitor analysis,delusion
+20,saturday,19:00,057.jpg,my 5 year plan is friday,work
+20,saturday,23:00,084.jpg,i can't relax without earning it and i never earn it,overthink
+21,sunday,09:00,034.jpg,i check my balance with one eye closed,money
+21,sunday,13:00,020.jpg,i'm not avoiding responsibilities we're just on a break,delusion
+21,sunday,19:00,037.jpg,me: saves money. also me: found it,money
+21,sunday,23:00,107.jpg,the weekend lasted 11 minutes,weekend
+22,monday,09:00,099.jpg,tired at 3pm. wide awake at 3am. science can't explain me,sleep
+22,monday,13:00,066.jpg,let's do something this weekend we say. knowing,social
+22,monday,19:00,087.jpg,i took it personally because it was personal to me,overthink
+22,monday,23:00,032.jpg,my savings account is more of a concept,money
+23,tuesday,09:00,039.jpg,i'm one unexpected expense away from a personality change,money
+23,tuesday,13:00,047.jpg,quick call? is a threat,work
+23,tuesday,19:00,041.jpg,i pay for subscriptions i forgot about out of respect,money
+23,tuesday,23:00,059.jpg,i left my last brain cell in a meeting that could've been an email,work
+24,wednesday,09:00,060.jpg,lunch break is a personality trait,work
+24,wednesday,13:00,121.jpg,i've seen this reel 4 times and laughed 4 times,phone
+24,wednesday,19:00,069.jpg,i need a vacation from the vacation i didn't take,social
+24,wednesday,23:00,027.jpg,i'm not lost i'm exploring alternative life paths,delusion
+25,thursday,09:00,064.jpg,my social battery dies faster than my phone,social
+25,thursday,13:00,105.jpg,every night i pick a new reason to stay up,sleep
+25,thursday,19:00,118.jpg,my screen time report should come with a warning label,phone
+25,thursday,23:00,013.jpg,i'm not lazy i'm on energy saving mode,delusion
+26,friday,09:00,125.jpg,my search history is a cry for help and a comedy show,phone
+26,friday,13:00,048.jpg,i flourish under no supervision and no deadlines and no work,work
+26,friday,19:00,122.jpg,my phone dies at 40% just like me,phone
+26,friday,23:00,025.jpg,i'm not procrastinating i'm giving future me a purpose,delusion
+27,saturday,09:00,082.jpg,my anxiety has anxiety,overthink
+27,saturday,13:00,103.jpg,i sleep in 8 installments of 1 hour,sleep
+27,saturday,19:00,091.jpg,reading the message and replying in my imagination counts,overthink
+27,saturday,23:00,014.jpg,i'm not late i'm just living in a different time zone emotionally,delusion
+28,sunday,09:00,024.jpg,i'm not indecisive i'm keeping my options open forever,delusion
+28,sunday,13:00,088.jpg,i need closure for things that never even opened,overthink
+28,sunday,19:00,098.jpg,bedtime procrastination is stealing hours from tomorrow's me,sleep
+28,sunday,23:00,040.jpg,my card has seen things it can't unsee,money
+29,monday,09:00,104.jpg,coffee doesn't wake me up it just makes me a faster zombie,sleep
+29,monday,13:00,116.jpg,brunch is just breakfast with a cover story,weekend
+29,monday,19:00,070.jpg,home by 11 means home by 9,social
+29,monday,23:00,019.jpg,i'm not overthinking i'm doing unpaid research,delusion
+30,tuesday,09:00,126.jpg,i follow accounts that hurt my feelings on purpose,phone
+30,tuesday,13:00,038.jpg,adulthood is saying after this month things will calm down forever,money
+30,tuesday,19:00,018.jpg,i'm not addicted to my phone we're just in a committed relationship,delusion
+30,tuesday,23:00,072.jpg,the group chat plans trips we will never take,social
+31,wednesday,09:00,006.jpg,i didn't wanna check their profile but my thumb slipped 47 times,excuse
+31,wednesday,13:00,114.jpg,the best nights start with i'm not staying long,weekend
+31,wednesday,19:00,007.jpg,i didn't wanna nap but the blanket started negotiating,excuse
+31,wednesday,23:00,051.jpg,i'm in my circling back era,work
+32,thursday,09:00,119.jpg,i open the fridge and my phone with the same hope,phone
+32,thursday,13:00,074.jpg,my ideal party has 4 people and ends at 10,social
+32,thursday,19:00,120.jpg,airplane mode is my version of running away,phone
+32,thursday,23:00,149.jpg,if i send you memes that's a relationship,wholesome
+33,friday,09:00,111.jpg,hangovers now come with interest,weekend
+33,friday,13:00,081.jpg,sent a text. reread it 12 times. it said ok,overthink
+33,friday,19:00,029.jpg,adulthood is just replying to emails and heating up food,money
+33,friday,23:00,016.jpg,i'm not broke i'm pre rich,delusion
+34,saturday,09:00,073.jpg,sorry i missed your call by watching it ring,social
+34,saturday,13:00,109.jpg,one drink is never one drink and everyone knows it,weekend
+34,saturday,19:00,148.jpg,my love language is remembering the small things you said,wholesome
+34,saturday,23:00,055.jpg,i answer emails in my head and consider them sent,work
+35,sunday,09:00,071.jpg,i'm an indoor person with outdoor friends,social
+35,sunday,13:00,128.jpg,posting this to my story instead of texting the person it's about,phone
+35,sunday,19:00,031.jpg,payday lasts about 45 minutes,money
+35,sunday,23:00,009.jpg,i didn't wanna gossip but the news was breaking,excuse
+36,monday,09:00,054.jpg,the office coffee is doing the heavy lifting,work
+36,monday,13:00,012.jpg,i didn't wanna overshare but you asked how i was,excuse
+36,monday,19:00,056.jpg,per my last email means we're enemies now,work
+36,monday,23:00,005.jpg,i didn't wanna cancel plans but my bed apologized first,excuse
+37,tuesday,09:00,028.jpg,my bank account and i are no longer on speaking terms,money
+37,tuesday,13:00,065.jpg,i love being invited so i can say no,social
+37,tuesday,19:00,124.jpg,wifi went down for 30 seconds and i checked if i was okay,phone
+37,tuesday,23:00,008.jpg,i didn't wanna buy it but it was technically on sale,excuse
+38,wednesday,09:00,075.jpg,small talk should be optional,social
+38,wednesday,13:00,094.jpg,my alarm has heard words no one should ever hear,sleep

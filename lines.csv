@@ -1,0 +1,151 @@
+id,text,format,trigger
+1,i didn't wanna text back but my phone was right there,excuse,identity
+2,i didn't wanna spend money today but the card said yes,excuse,identity
+3,i didn't wanna stay up late but my brain scheduled a meeting at 2am,excuse,identity
+4,i didn't wanna order delivery but the kitchen was so far,excuse,identity
+5,i didn't wanna cancel plans but my bed apologized first,excuse,identity
+6,i didn't wanna check their profile but my thumb slipped 47 times,excuse,confession
+7,i didn't wanna nap but the blanket started negotiating,excuse,identity
+8,i didn't wanna buy it but it was technically on sale,excuse,identity
+9,i didn't wanna gossip but the news was breaking,excuse,tag-a-friend
+10,i didn't wanna snooze but 9 more minutes is basically self care,excuse,identity
+11,i didn't wanna go out but someone said one drink,excuse,tag-a-friend
+12,i didn't wanna overshare but you asked how i was,excuse,confession
+13,i'm not lazy i'm on energy saving mode,delusion,identity
+14,i'm not late i'm just living in a different time zone emotionally,delusion,tag-a-friend
+15,i'm not ignoring you i'm buffering,delusion,tag-a-friend
+16,i'm not broke i'm pre rich,delusion,identity
+17,i'm not dramatic the situation was dramatic,delusion,identity
+18,i'm not addicted to my phone we're just in a committed relationship,delusion,confession
+19,i'm not overthinking i'm doing unpaid research,delusion,identity
+20,i'm not avoiding responsibilities we're just on a break,delusion,identity
+21,i'm not always tired i'm just never awake,delusion,identity
+22,i'm not jealous i'm doing a competitor analysis,delusion,identity
+23,i'm not nosy i'm community oriented,delusion,tag-a-friend
+24,i'm not indecisive i'm keeping my options open forever,delusion,identity
+25,i'm not procrastinating i'm giving future me a purpose,delusion,identity
+26,i'm not petty i just have an excellent memory,delusion,identity
+27,i'm not lost i'm exploring alternative life paths,delusion,identity
+28,my bank account and i are no longer on speaking terms,money,identity
+29,adulthood is just replying to emails and heating up food,money,identity
+30,i budget like someone who has never met me before,money,confession
+31,payday lasts about 45 minutes,money,identity
+32,my savings account is more of a concept,money,confession
+33,financial plan: hope,money,identity
+34,i check my balance with one eye closed,money,identity
+35,treating myself was supposed to be occasional,money,confession
+36,rent said thanks for everything again,money,identity
+37,me: saves money. also me: found it,money,identity
+38,adulthood is saying after this month things will calm down forever,money,identity
+39,i'm one unexpected expense away from a personality change,money,identity
+40,my card has seen things it can't unsee,money,identity
+41,i pay for subscriptions i forgot about out of respect,money,confession
+42,my financial goals and my checkout history are in a fight,money,identity
+43,i don't chase. unless it's a refund,money,identity
+44,groceries cost a salary now and we're all just okay with it,money,identity
+45,my wallet flinches when i open instagram,money,identity
+46,my out of office is a love letter i write to myself,work,identity
+47,quick call? is a threat,work,tag-a-friend
+48,i flourish under no supervision and no deadlines and no work,work,identity
+49,my calendar has meetings about meetings,work,identity
+50,i say sounds good to things that sound terrible,work,confession
+51,i'm in my circling back era,work,identity
+52,every job says fast paced environment like it's a good thing,work,identity
+53,i pretend my mic is broken just to sigh,work,confession
+54,the office coffee is doing the heavy lifting,work,identity
+55,i answer emails in my head and consider them sent,work,confession
+56,per my last email means we're enemies now,work,tag-a-friend
+57,my 5 year plan is friday,work,identity
+58,work life balance is me being tired in two locations,work,identity
+59,i left my last brain cell in a meeting that could've been an email,work,identity
+60,lunch break is a personality trait,work,identity
+61,i'm not slacking i'm in a silent brainstorm,work,identity
+62,promotion? i was thinking more like a nap,work,identity
+63,my resume says team player. my soul says leave me alone,work,confession
+64,my social battery dies faster than my phone,social,identity
+65,i love being invited so i can say no,social,confession
+66,let's do something this weekend we say. knowing,social,tag-a-friend
+67,plans made on tuesday are cancelled by friday. that's science,social,tag-a-friend
+68,my favorite plan is the one that gets cancelled,social,identity
+69,i need a vacation from the vacation i didn't take,social,identity
+70,home by 11 means home by 9,social,identity
+71,i'm an indoor person with outdoor friends,social,tag-a-friend
+72,the group chat plans trips we will never take,social,tag-a-friend
+73,sorry i missed your call by watching it ring,social,confession
+74,my ideal party has 4 people and ends at 10,social,identity
+75,small talk should be optional,social,identity
+76,i'm fun at parties i just need to be at home,social,identity
+77,on my way means i'm considering getting up,social,tag-a-friend
+78,friendship is sending memes with no context and being understood,social,tag-a-friend
+79,my brain remembers embarrassing moments from 2014 but not passwords,overthink,identity
+80,i rehearse conversations that will never happen,overthink,confession
+81,sent a text. reread it 12 times. it said ok,overthink,identity
+82,my anxiety has anxiety,overthink,identity
+83,overthinking is my cardio,overthink,identity
+84,i can't relax without earning it and i never earn it,overthink,confession
+85,why did i say that. a memoir,overthink,identity
+86,my thoughts have a night shift,overthink,identity
+87,i took it personally because it was personal to me,overthink,identity
+88,i need closure for things that never even opened,overthink,confession
+89,brain: remember that dumb thing you said? me: it's 3am,overthink,identity
+90,i'm calm the way a shaken soda is calm,overthink,identity
+91,reading the message and replying in my imagination counts,overthink,confession
+92,my intuition is 50% genius 50% paranoia,overthink,identity
+93,i self reflect until it becomes self roasting,overthink,identity
+94,my alarm has heard words no one should ever hear,sleep,identity
+95,being awake before 9am should count as overtime,sleep,identity
+96,i don't wake up i reboot,sleep,identity
+97,5 more minutes is the biggest lie i tell daily,sleep,confession
+98,bedtime procrastination is stealing hours from tomorrow's me,sleep,identity
+99,tired at 3pm. wide awake at 3am. science can't explain me,sleep,identity
+100,i'm a morning person if the morning starts at noon,sleep,identity
+101,naps are just little rehearsals for bedtime,sleep,identity
+102,my bed is most comfortable exactly when i have to leave it,sleep,identity
+103,i sleep in 8 installments of 1 hour,sleep,identity
+104,coffee doesn't wake me up it just makes me a faster zombie,sleep,identity
+105,every night i pick a new reason to stay up,sleep,confession
+106,friday me makes promises monday me has to survive,weekend,timing
+107,the weekend lasted 11 minutes,weekend,timing
+108,saturday: recover from friday. sunday: dread monday,weekend,timing
+109,one drink is never one drink and everyone knows it,weekend,tag-a-friend
+110,i go out to remember why i stay in,weekend,identity
+111,hangovers now come with interest,weekend,identity
+112,sunday evening hits like an unpaid bill,weekend,timing
+113,weekend goals: nothing. achieved: everything,weekend,timing
+114,the best nights start with i'm not staying long,weekend,tag-a-friend
+115,i danced like nobody was filming. somebody was filming,weekend,confession
+116,brunch is just breakfast with a cover story,weekend,identity
+117,my weekend personality writes checks my monday body can't cash,weekend,timing
+118,my screen time report should come with a warning label,phone,confession
+119,i open the fridge and my phone with the same hope,phone,identity
+120,airplane mode is my version of running away,phone,identity
+121,i've seen this reel 4 times and laughed 4 times,phone,identity
+122,my phone dies at 40% just like me,phone,identity
+123,i typed a comment. deleted it. felt powerful,phone,confession
+124,wifi went down for 30 seconds and i checked if i was okay,phone,identity
+125,my search history is a cry for help and a comedy show,phone,confession
+126,i follow accounts that hurt my feelings on purpose,phone,confession
+127,the algorithm knows me better than my friends do,phone,identity
+128,posting this to my story instead of texting the person it's about,phone,confession
+129,i scroll to relax and end up knowing too much,phone,identity
+130,it's monday somewhere. unfortunately it's here,weekday,timing
+131,tuesday is just monday's echo,weekday,timing
+132,wednesday: too late to restart the week. too early to give up,weekday,timing
+133,thursday is friday's opening act,weekday,timing
+134,friday 5pm is my religion,weekday,timing
+135,saturday morning me is the best version of me,weekday,timing
+136,the sunday scaries arrived right on schedule,weekday,timing
+137,new week. same me. better excuses,weekday,timing
+138,this week has been a year,weekday,timing
+139,weekend loading... 1%,weekday,timing
+140,september is the monday of months,seasonal,timing
+141,new season. same coping mechanisms,seasonal,timing
+142,autumn: when hot drinks become a personality,seasonal,timing
+143,summer body has been rescheduled to next year. again,seasonal,timing
+144,the year is 70% done and so am i,seasonal,timing
+145,sweater weather is just hiding weather,seasonal,timing
+146,i'm the friend who says text me when you're home,wholesome,tag-a-friend
+147,normalize resting without earning it,wholesome,identity
+148,my love language is remembering the small things you said,wholesome,tag-a-friend
+149,if i send you memes that's a relationship,wholesome,tag-a-friend
+150,protect the friends who hype you up in the comments,wholesome,tag-a-friend
