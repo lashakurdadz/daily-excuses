@@ -1,0 +1,23 @@
+name: refresh instagram token
+on:
+  schedule:
+    - cron: '30 3 * * 1'   # weekly, monday 07:30 Tbilisi
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pynacl
+      - name: refresh and store token
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: python refresh_token.py

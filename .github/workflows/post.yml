@@ -1,0 +1,34 @@
+name: post to instagram
+on:
+  schedule:
+    - cron: '0 5,9,15,19 * * *'   # 09:00 13:00 19:00 23:00 Tbilisi
+  workflow_dispatch:
+    inputs:
+      test_post_id:
+        description: 'force-publish this post id (e.g. 1). leave empty for the scheduled slot'
+        required: false
+      dry_run:
+        description: 'set to 1 to test without actually posting'
+        required: false
+        default: '1'
+
+permissions:
+  contents: read
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: publish
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          HANDLE: ${{ vars.HANDLE }}
+          START_DATE: ${{ vars.START_DATE }}
+          TEST_POST_ID: ${{ inputs.test_post_id }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: python publish.py
